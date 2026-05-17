@@ -1,0 +1,30 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML
+*.h5
+*.pt
+*.pth
+*.tflite
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Android
+.gradle/
+local.properties
+
+# Secrets
+.env
